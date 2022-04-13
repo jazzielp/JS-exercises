@@ -1,0 +1,22 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "Carpeta para los ejercicios de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzielp/JS-exercises.git"
+  },
+  "keywords": [
+    "JavaScrip"
+  ],
+  "author": "Jazziel Puente <oscar@platzi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jazzielp/JS-exercises/issues"
+  },
+  "homepage": "https://github.com/jazzielp/JS-exercises#readme"
+}
